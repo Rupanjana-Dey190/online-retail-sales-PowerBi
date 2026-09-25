@@ -1,5 +1,10 @@
-# Power BI Report
+# Data Source
 
-Open `Online_Retail_Sales_Dashboard.pbix` with Power BI Desktop.
+The `Online_Retail.xlsx` file is based on the UCI Machine Learning Repository's Online Retail dataset.
 
-The report contains KPI cards, sales trend analysis, country-level sales, product analysis, a country slicer, and an invoice-date slicer.
+Official source:
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+DOI: 10.24432/C5BW33
+
+License: CC BY 4.0
