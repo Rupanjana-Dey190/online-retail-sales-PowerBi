@@ -167,13 +167,3 @@ The original dataset is associated with:
 
 Chen, D., Sain, S. L., & Guo, K. (2012). Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining. *Journal of Database Marketing & Customer Strategy Management, 19*(3), 197–208. https://doi.org/10.1057/dbm.2012.17
 
-## Disclaimer
-
-This is an educational and portfolio project. The dashboard is intended to demonstrate data analytics and Power BI skills and should not be interpreted as an official report of the original retailer.
-
-## Author
-
-**Rupanjana Dey**
-
-Economics Student | Data Analytics | Power BI | Python | Machine Learning
-
