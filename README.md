@@ -6,7 +6,7 @@ An interactive **Power BI sales analytics project** built using the UCI Machine 
 
 > Add your Power BI dashboard screenshot here as `docs/dashboard.png`.
 
-![Online Retail Sales Dashboard](Screenshot 2026-09-25 122427.png)
+[📊 Click here to view the Power BI Dashboard Screenshot](Screenshot%202026-09-25%201224ss27.png)
 
 ## Project Objective
 
