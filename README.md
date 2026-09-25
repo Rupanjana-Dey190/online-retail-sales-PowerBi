@@ -6,8 +6,7 @@ An interactive **Power BI sales analytics project** built using the UCI Machine 
 
 > Add your Power BI dashboard screenshot here as `docs/dashboard.png`.
 
-[📊 Click here to view the Power BI Dashboard Screenshot](Screenshot 2026-09-25 122427.png)
-
+[📊 Click here to view the Power BI Dashboard Screenshot](Screenshot%202026-09-25%20122427.png)
 ## Project Objective
 
 The objective of this project is to analyze online retail transactions and build an interactive business intelligence dashboard that helps users explore:
